@@ -1,0 +1,22 @@
+#mainHeader {
+    text-align: center;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+body {
+    background-color: lightgoldenrodyellow;
+}
+.post {
+    background-color: aliceblue;
+    width: 60%;
+    margin: auto;
+}
+img {
+    width: 100%;
+    height: auto;
+    max-height: 500px;
+}
+p {
+    padding-bottom: 5%;
+}
